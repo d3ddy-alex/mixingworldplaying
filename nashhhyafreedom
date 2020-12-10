@@ -750,299 +750,384 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="LOCAL",Hi!Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist.m3u8
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: Fox Action Movies
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/197971
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: Fox Crime
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/165076
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: Fox Life
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/165083
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: Fox Movies Premium
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/197970
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: FOX SPORTS 1
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/162517
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: FOX SPORTS 2
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/162516
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: FOX SPORTS 3
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/165088
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: GTV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157578
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: HBO
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/197972
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: HBO Family
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/197055
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: HBO Hits
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/196480
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: HBO Signature
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221948
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: HGTV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/162518
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: History
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/162519
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: Hits Movies
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221947
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: IDX
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157590
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: Indosiar
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/162138
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: Inspira TV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/166412
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: Jakarta Globe News Channel
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/166399
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: JakTV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157601
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: Jiangsu TV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221945
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: Jogja TV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/166792
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: JTV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/165091
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: K+
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/197969
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: KBS World
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/197053
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: Kids TV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/162505
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID ANIMAL PLANET
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220140
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID Cartoon Network
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220067
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID Discovery Asia
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220593
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID Discovery Channel
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220548
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID Fox Life
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220672
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID HGTV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221745
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID History
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220945
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID Music TV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221477
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID NAT GEO
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220851
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID NAT GEO People
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220866
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID NAT GEO Wild
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220867
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID nickelodeon
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221611
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: ABC Australia
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/165056
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",ID: ADiTV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/174561
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY ASTRO SUPERSPORT 1 HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/246508
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Astro SuperSport 2 HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/246507
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Astro SuperSport 1 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/146068
 #EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Astro SuperSport 3 HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/246504
+http://tyciptv.site:8080/test-2ddd5c/43bf/246504
 #EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Astro SuperSport 4 HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/246505
+http://tyciptv.site:8080/test-2ddd5c/43bf/246505
 #EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Astro SuperSport HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/246506
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Baby TV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221016
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY BBC Earth HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220362
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY BBC Lifestyle
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220622
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY CARTOON NETWORK
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220070
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY CARTOON NTWK HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220973
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Crime+ Investigation HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220026
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Discovery ASIA
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220547
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Discovery Channel HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220545
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Discovery Science HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220546
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Disney Channel HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221286
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Disney JUNIOR
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221184
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Disney XD HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221287
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY DMAX HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221323
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY EUROSPORT HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220343
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY FOX Life HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220674
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY HGTV HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221744
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY History HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220944
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY NAT GEO Asia HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220854
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY NAT GEO HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220849
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY NAT GEO People
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220850
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY NAT GEO WILD HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/220859
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Nick Junior
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221185
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY NICK KD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221621
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY nickelodeon HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221610
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY SkyNet Baby TV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221015
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY SkyNet Dmax
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221326
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY SUN MUSIC
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/221470
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Astro SuperSport 4 HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157558
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Astro SuperSport HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157559
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO WARNA HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157492
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO XIAO TYANG
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/174728
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: AXN HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157542
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Baby TV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/182397
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: BBC Earth HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/171979
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: BBC Lifestyle
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/171976
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: BBC News HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157522
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: beIN Sports
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157561
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: beIN Sports ENG 1
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/199720
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: beIN Sports ENG 2
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/197052
+http://tyciptv.site:8080/test-2ddd5c/43bf/246506
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Astro SuperSport 2 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/246507
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY ASTRO SUPERSPORT 1 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/246508
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO ARENA HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157485
 #EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: beIN Sports MAX
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157487
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: BLOOMBERG TV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157533
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Blue Ant Entertainment
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/171983
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Blue Ant Extreme
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/171960
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: BNC
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157521
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: BOLLYONE HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157470
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Boomerang HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/171955
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: BOOMERANG HD KD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/174683
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: CARTOON NETWORK
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/174684
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: CARTOON NTWK HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157540
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: CCM
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157512
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: FRANCE24 HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157568
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: FX Cinema HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/171987
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: GNIX SPORTS HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/174698
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: GO SHOP 2
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157502
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: GO SHOP GAAYA
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157493
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: GO SHOP RUUMA
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157494
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: GOLF Channel HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157563
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: HBO HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157518
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: HGTV HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157553
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: History HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157480
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: HITS HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157545
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: HITS Movies HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157477
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: HUA HEE DAI HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157513
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: HYPP SENSASI
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/174693
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: iQIYI HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157501
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Jaya Max
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/171963
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: KBS World HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157475
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: KIX HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157548
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: KPLUS HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157567
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: MAKKAL TV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/171966
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: MTV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157555
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: MTV Asia
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/171964
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: NAT GEO Asia HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/171965
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: NAT GEO HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157531
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: NAT GEO People
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157551
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: NAT GEO WILD HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/174724
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: NGW HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/158352
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Nick Junior
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157546
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: NICK KD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/174711
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: nickelodeon HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157541
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Now Jelli
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/171982
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: NTV7
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/174695
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Oh!K HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157479
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TV ALHIJRAH
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157491
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TV1
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/158357
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TV2
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/158355
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TV3
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/158360
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TV8
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/174708
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TV9
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/171953
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TVB CLASSIC
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157510
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TVB E-NEWS
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157472
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TVB XING HE HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157473
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TVIQ
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157538
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: tvN HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157476
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: tvN Movies
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157520
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: VINMEEN HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/158354
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: WARNER TV
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157550
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: WLT JADE
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157507
+http://tyciptv.site:8080/test-2ddd5c/43bf/157487
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: FOX SPORTS 2 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157488
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Astro SuperSport 2 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157556
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Astro SuperSport 3 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157557
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Astro SuperSport 4 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157558
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: FOX SPORTS 3 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157560
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: beIN Sports
+http://tyciptv.site:8080/test-2ddd5c/43bf/157561
 #EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: WWE Network
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157562
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: XIAO TAI YANG HD
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/157503
-#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ZEE TAMIL
-http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/174710
+http://tyciptv.site:8080/test-2ddd5c/43bf/157562
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: GOLF Channel HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157563
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO RUGBY PASS TV
+http://tyciptv.site:8080/test-2ddd5c/43bf/157564
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO CRICKET
+http://tyciptv.site:8080/test-2ddd5c/43bf/157565
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: RTM Sports
+http://tyciptv.site:8080/test-2ddd5c/43bf/187243
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: FOX SPORTS 1
+http://tyciptv.site:8080/test-2ddd5c/43bf/174721
 
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ANIPLUS HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157566
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: KPLUS HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157567
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: KBS World HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157475
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: tvN HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157476
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: HITS Movies HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157477
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ANIMAX
+http://tyciptv.site:8080/test-2ddd5c/43bf/157486
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: CCM
+http://tyciptv.site:8080/test-2ddd5c/43bf/157512
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TVB CLASSIC
+http://tyciptv.site:8080/test-2ddd5c/43bf/157510
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: HBO HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157518
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: CINEMAX HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157519
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: tvN Movies
+http://tyciptv.site:8080/test-2ddd5c/43bf/157520
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: AXN HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157542
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: WARNER TV
+http://tyciptv.site:8080/test-2ddd5c/43bf/157550
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: KIX HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157548
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: HITS HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157545
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: FOX HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/158356
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Paramount Channel
+http://tyciptv.site:8080/test-2ddd5c/43bf/171967
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Cinema World HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/171956
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Colors Cineplex
+http://tyciptv.site:8080/test-2ddd5c/43bf/171957
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Dreamworks HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/171959
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Blue Ant Extreme
+http://tyciptv.site:8080/test-2ddd5c/43bf/171960
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Blue Ant Entertainment
+http://tyciptv.site:8080/test-2ddd5c/43bf/171983
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: FX Cinema HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/171987
+
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: History HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157480
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO CERIA HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157481
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Disney Channel HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157482
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TLC HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157483
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: eGG Network
+http://tyciptv.site:8080/test-2ddd5c/43bf/157484
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO PRIMA HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157467
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: COLORS HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157468
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: BOLLYONE HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157470
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TVB E-NEWS
+http://tyciptv.site:8080/test-2ddd5c/43bf/157472
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TVB XING HE HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157473
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO OASIS HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157489
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO NAURA
+http://tyciptv.site:8080/test-2ddd5c/43bf/157490
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TV ALHIJRAH
+http://tyciptv.site:8080/test-2ddd5c/43bf/157491
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO WARNA HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157492
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: CHUTTI TV
+http://tyciptv.site:8080/test-2ddd5c/43bf/157495
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: SUN MUSIC
+http://tyciptv.site:8080/test-2ddd5c/43bf/157496
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: CTI ASIA
+http://tyciptv.site:8080/test-2ddd5c/43bf/157509
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: CCTV4 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157514
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: BBC News HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157522
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: CNN HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157523
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: CNA HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157524
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Al Jazeera HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157525
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ABC AUSTRALIA
+http://tyciptv.site:8080/test-2ddd5c/43bf/157526
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: SKY NEWS HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157527
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Discovery Channel HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157528
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: CNBC
+http://tyciptv.site:8080/test-2ddd5c/43bf/157529
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Discovery Science HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157530
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: NAT GEO HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157531
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ANIMAL PLANET HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157532
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: BLOOMBERG TV
+http://tyciptv.site:8080/test-2ddd5c/43bf/157533
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Discovery ASIA
+http://tyciptv.site:8080/test-2ddd5c/43bf/157536
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Disney JUNIOR
+http://tyciptv.site:8080/test-2ddd5c/43bf/157539
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: nickelodeon HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157541
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO HELLO
+http://tyciptv.site:8080/test-2ddd5c/43bf/157543
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Disney XD HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157544
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Nick Junior
+http://tyciptv.site:8080/test-2ddd5c/43bf/157546
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: AFN HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157549
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: NAT GEO People
+http://tyciptv.site:8080/test-2ddd5c/43bf/157551
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: COMEDY CENTRAL
+http://tyciptv.site:8080/test-2ddd5c/43bf/157552
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: HGTV HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157553
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: MTV
+http://tyciptv.site:8080/test-2ddd5c/43bf/157555
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: FRANCE24 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157568
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: DW HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/157573
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO RIA HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/158347
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ONE HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/158349
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: DMAX HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/158351
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: EUROSPORT HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/158353
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TV2
+http://tyciptv.site:8080/test-2ddd5c/43bf/158355
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TV1
+http://tyciptv.site:8080/test-2ddd5c/43bf/158357
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TV3
+http://tyciptv.site:8080/test-2ddd5c/43bf/158360
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TV9
+http://tyciptv.site:8080/test-2ddd5c/43bf/171953
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Drama Sangat
+http://tyciptv.site:8080/test-2ddd5c/43bf/171954
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Boomerang HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/171955
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Jaya Max
+http://tyciptv.site:8080/test-2ddd5c/43bf/171963
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: MTV Asia
+http://tyciptv.site:8080/test-2ddd5c/43bf/171964
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: NAT GEO Asia HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/171965
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: MAKKAL TV
+http://tyciptv.site:8080/test-2ddd5c/43bf/171966
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: 8TV
+http://tyciptv.site:8080/test-2ddd5c/43bf/171968
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Sony SAB
+http://tyciptv.site:8080/test-2ddd5c/43bf/171973
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Sony TV
+http://tyciptv.site:8080/test-2ddd5c/43bf/171974
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: BBC Lifestyle
+http://tyciptv.site:8080/test-2ddd5c/43bf/171976
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Travel Channel HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/171977
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: BBC Earth HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/171979
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Astro Rania HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/171984
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Astro Aura HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/171986
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Sony SetMAX
+http://tyciptv.site:8080/test-2ddd5c/43bf/171988
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: CARTOON NETWORK
+http://tyciptv.site:8080/test-2ddd5c/43bf/174684
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: CELESTIAL Movies
+http://tyciptv.site:8080/test-2ddd5c/43bf/174687
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: NTV7
+http://tyciptv.site:8080/test-2ddd5c/43bf/174695
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: SkyNet Baby TV
+http://tyciptv.site:8080/test-2ddd5c/43bf/174697
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: GNIX SPORTS HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/174698
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: SkyNet Movies HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/174701
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: SkyNet Zing
+http://tyciptv.site:8080/test-2ddd5c/43bf/174706
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: NICK KD
+http://tyciptv.site:8080/test-2ddd5c/43bf/174711
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO VINMEEN HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/174718
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: SkyNet ZEE TV
+http://tyciptv.site:8080/test-2ddd5c/43bf/174723
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: NAT GEO WILD HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/174724
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TV ALHIJRA
+http://tyciptv.site:8080/test-2ddd5c/43bf/174725
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: SkyNet Golf HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/174727
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Baby TV
+http://tyciptv.site:8080/test-2ddd5c/43bf/182397
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Food Network HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/196454
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO Vaanavil HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/201163
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO XIAO TAI YANG
+http://tyciptv.site:8080/test-2ddd5c/43bf/201164
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Crime+ Investigation HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/220026
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY CARTOON NETWORK
+http://tyciptv.site:8080/test-2ddd5c/43bf/220070
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY ANIMAL PLANET HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/220139
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY EUROSPORT HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/220343
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY BBC Earth HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/220362
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Discovery Channel HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/220545
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Discovery Science HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/220546
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Discovery ASIA
+http://tyciptv.site:8080/test-2ddd5c/43bf/220547
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY BBC Lifestyle
+http://tyciptv.site:8080/test-2ddd5c/43bf/220622
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY FOX Life HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/220674
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY NAT GEO HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/220849
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY NAT GEO People
+http://tyciptv.site:8080/test-2ddd5c/43bf/220850
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY NAT GEO Asia HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/220854
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY NAT GEO WILD HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/220859
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY History HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/220944
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY CARTOON NTWK HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/220973
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY SkyNet Baby TV
+http://tyciptv.site:8080/test-2ddd5c/43bf/221015
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Baby TV
+http://tyciptv.site:8080/test-2ddd5c/43bf/221016
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Travel Channel HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/221077
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Disney JUNIOR
+http://tyciptv.site:8080/test-2ddd5c/43bf/221184
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Nick Junior
+http://tyciptv.site:8080/test-2ddd5c/43bf/221185
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Disney Channel HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/221286
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY Disney XD HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/221287
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY DMAX HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/221323
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY SkyNet Dmax
+http://tyciptv.site:8080/test-2ddd5c/43bf/221326
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY SUN MUSIC
+http://tyciptv.site:8080/test-2ddd5c/43bf/221470
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY nickelodeon HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/221610
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY NICK KD
+http://tyciptv.site:8080/test-2ddd5c/43bf/221621
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY HGTV HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/221744
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Al Jazzera HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247405
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO ABO Movie Thangathirai
+http://tyciptv.site:8080/test-2ddd5c/43bf/247406
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO ABO Tayangan Hebat
+http://tyciptv.site:8080/test-2ddd5c/43bf/247407
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO Adithya
+http://tyciptv.site:8080/test-2ddd5c/43bf/247408
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO AEC HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247409
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO AOD 351 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247410
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO AOD 352 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247411
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO AOD 353 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247412
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO AOD 354 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247413
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO AOD 355 HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247414
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO Colors Tamil
+http://tyciptv.site:8080/test-2ddd5c/43bf/247420
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO GO Shop 2
+http://tyciptv.site:8080/test-2ddd5c/43bf/247421
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO GO Shop Gaaya
+http://tyciptv.site:8080/test-2ddd5c/43bf/247422
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO GO Shop Rumma
+http://tyciptv.site:8080/test-2ddd5c/43bf/247423
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO Hua Hee Dai HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247424
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO iQIYI HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247425
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO Oh!K HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247426
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO Quan Jia HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247427
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO Shuang Xing HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247428
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO Star Vijay HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247429
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO Sun TV HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247430
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO Tutor TV PT3
+http://tyciptv.site:8080/test-2ddd5c/43bf/247431
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO Tutor TV SPM
+http://tyciptv.site:8080/test-2ddd5c/43bf/247432
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO Tutor TV UPSR
+http://tyciptv.site:8080/test-2ddd5c/43bf/247433
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO TVIQ
+http://tyciptv.site:8080/test-2ddd5c/43bf/247434
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO Zee Tamil HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247435
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: beIN MAX
+http://tyciptv.site:8080/test-2ddd5c/43bf/247436
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Bernama News
+http://tyciptv.site:8080/test-2ddd5c/43bf/247437
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: C&I HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247438
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: Rugby Pass TV
+http://tyciptv.site:8080/test-2ddd5c/43bf/247439
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TVB Jade HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247440
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: TVBS Asia HD
+http://tyciptv.site:8080/test-2ddd5c/43bf/247441
+#EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",MY: ASTRO AWANI
+http://tyciptv.site:8080/test-2ddd5c/43bf/157478
 
 #EXTINF:-1 group-title="TV Free Rasa Premium" tvg-logo="https://i.imgur.com/XaQBspc.png",AL: Sport Klub 1 HD
 http://skylogic.site:8080/Vortexalliaz/a9b4be6cd3/15575
